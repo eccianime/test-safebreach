@@ -1,0 +1,5 @@
+export const types = {
+  SET_RESULTS: '@APP/SET_RESULTS',
+  START_SEARCH: '@APP/START_SEARCH',
+  CLEAR_ALL: '@APP/CLEAR_ALL'
+}
