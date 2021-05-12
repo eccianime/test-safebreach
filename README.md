@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+Esse projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Instruções de Instalação
 
-## Available Scripts
+Copia essa linha
+https://github.com/eccianime/test-safebreach.git
 
-In the project directory, you can run:
+Cria uma nova pasta e no terminal escreve o seguinte:
+
+### `git clone https://github.com/eccianime/test-safebreach.git`
+
+Então, entra na pasta que é criada e dentro escreve
+
+### `yarn install`
+
+ou
+
+### `npm install`
+
+Quando tudo estiver instalado, escreva 
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+E esse comando inicia a app em modo desenvolvimento.<br />
+Abra [http://localhost:3000](http://localhost:3000) para vé-la no navegador.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+A página será atualizada se fizer edições<br />
+Também poderá ver erros lint na consola.
 
-### `yarn test`
+## Projetos adicionais usando React
+Você poderá ver outros dos meus projetos simples aqui:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[http://teste-hostgator.surge.sh/](http://teste-hostgator.surge.sh/)
+Landing Page para empresa de hosting
 
-### `yarn build`
+[http://breaking-bad-phrases.surge.sh](http://breaking-bad-phrases.surge.sh)
+Gerador de frases random da série Breaking Bad Series.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[http://teste-reload.surge.sh](http://teste-reload.surge.sh)
+Simples avatar médico para reconhecer partes humanas, feito como início de jogo de anatomía para crianças.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[http://teste-wecount.surge.sh](http://teste-wecount.surge.sh)
+Mock-up para e-commerce, teste usando as capacidades de useState e Redux.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[http://meb-store.surge.sh](http://meb-store.surge.sh)
+Projeto base de e-commerce.
 
-### `yarn eject`
+[http://teste-syndikos.surge.sh](http://teste-syndikos.surge.sh)
+Validação de formulários com background ilimitado.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[http://teste-gdp-clube.surge.sh](http://teste-gdp-clube.surge.sh)
+App para testar capacidades de React e Redux. Aqui, é gerado uma lista de imágens basada na API da NASA para obter a imagen do dia.
+Também tem uma lista organizável de imagens favoritas para ver, baixar e borrar.
